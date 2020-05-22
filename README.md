@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The idea was to learn about API calls, async/await and forms while creating a search engine for pictures.
 
 ## Available Scripts
 
